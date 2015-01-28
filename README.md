@@ -2,3 +2,6 @@
 
 Mason McNutt
 Lab 3
+
+
+PARTNER: NATHAN WELCH
